@@ -1,7 +1,7 @@
 <p align="center">  
   <img src="MAX_Q_LOGO.jpeg" width="180" alt="MAX-Q Logo"/>  
   <br>  
-  <b>NSPC_2025 — Shared Orbital Bus (SOB)</b>  
+  <b>NASA Space Apps 2025 — Shared Orbital Bus (SOB)</b>  
 </p>  
 
 ---
