@@ -39,7 +39,7 @@ A modular ESPA-class spacecraft hosting multiple independent payloads and provid
 - Built-in sustainability via servicing and disposal workflows  
 
 <p align="center">  
-  <img src="https://leolabs.space/images/traffic-map.jpg" width="650" alt="Leolabs LEO Debris Visualization"/>  
+  <img src="LeoLabs_LEO.jpg" width="650" alt="Leolabs LEO Debris Visualization"/>  
 </p>  
 
 ---
