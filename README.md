@@ -7,6 +7,7 @@
 ---
 
 <p align="center">  
+   <img src="yt_thumb.jpg" width="180" alt="YT THUMB"/><br>
   <a href="https://youtu.be/E-f5KDeGSmM?si=8-Ax8K1Jm1pWCbjE" target="_blank">  
     <img src="https://img.shields.io/badge/Watch_Project_Video-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video"/>  
   </a>  
