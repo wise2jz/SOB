@@ -1,5 +1,5 @@
 # <p align="center">  
-  <img src="logo.png" width="180" alt="MAX-Q Logo"/>  
+  <img src="MAX_Q_LOGO.jpeg" width="180" alt="MAX-Q Logo"/>  
   <br>  
   <b>NSPC_2025 — Shared Orbital Bus (SOB)</b>  
 </p>  
