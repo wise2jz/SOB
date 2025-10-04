@@ -51,7 +51,7 @@ A modular ESPA-class spacecraft hosting multiple independent payloads and provid
 - Result: higher launch cadence, higher operational cost, greater collision risk.  
 
 <p align="center">  
-  <img src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/04/space_debris_environment/23135467-1-eng-GB/Space_debris_environment_pillars.jpg" width="650" alt="ESA Debris Environment"/>  
+  <img src="ESA_ENV.png" width="650" alt="ESA Debris Environment"/>  
 </p>  
 
 ---
@@ -70,8 +70,11 @@ A modular ESPA-class spacecraft hosting multiple independent payloads and provid
 - Docking compatible with robotic servicing (heritage from NASA RRM and MEV)  
 
 <p align="center">  
-  <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/rrm3-iss.png" width="650" alt="NASA RRM Concept"/>  
-</p>  
+  <img src="1U_R.jpeg" width="250" alt="NASA RRM Concept"/>  
+  <img src="1U_INT_R.jpeg" width="250" alt="ESA Debris Environment"/>  
+  <img src="CONN_R.jpeg" width="250" alt="LeoLabs LEO Debris Visualization"/>  
+</p>
+
 
 ---
 
