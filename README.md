@@ -70,9 +70,9 @@ A modular ESPA-class spacecraft hosting multiple independent payloads and provid
 - Docking compatible with robotic servicing (heritage from NASA RRM and MEV)  
 
 <p align="center">  
-  <img src="1U_R.jpeg" width="250" alt="NASA RRM Concept"/>  
-  <img src="1U_INT_R.jpeg" width="250" alt="ESA Debris Environment"/>  
-  <img src="CONN_R.jpeg" width="250" alt="LeoLabs LEO Debris Visualization"/>  
+  <img src="1U_R.jpeg" width="250" alt="RCONN_1"/>  
+  <img src="1U_INT_R.jpeg" width="250" alt="RCONN_2"/>  
+  <img src="CONN_R.jpeg" width="250" alt=RCONN_3"/>  
 </p>
 
 
