@@ -105,12 +105,24 @@ A modular ESPA-class spacecraft hosting multiple independent payloads and provid
 
 ---
 
-## References  
+## References    
 
-[1] European Space Agency, *ESA Space Environment Report 2025*, 2025.  
-[2] NASA Orbital Debris Program Office, *ORDEM 3.2 Debris Model*, 2024.  
-[3] NASA, *Small Spacecraft Technology State of the Art — Platforms*, 2024.  
-[4] Moog, *ESPA/ESPAStar Technical Datasheet*.  
-[5] NASA, *Robotic Refueling Mission (RRM3) Factsheet*, 2023.  
-[6] ResearchGate, *Launch Cost Per Kilogram to LEO*, 2024.  
-[7] MarketsandMarkets, *Satellite Payload Market Forecast*, 2024.  
+[1] [European Space Agency, *ESA Space Environment Report 2025*, 2025.](https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025)  
+
+[2] [NASA Orbital Debris Program Office, *ORDEM (Orbital Debris Engineering Model)*, 2024.](https://orbitaldebris.jsc.nasa.gov/modeling/ordem.html)  
+
+[3] [NASA, *Small Spacecraft Technology State of the Art — Platforms*, 2024.](https://www.nasa.gov/wp-content/uploads/2023/01/2-soa-platforms-2024.pdf)  
+
+[4] [Moog, *ESPA Users Guide / ESPAStar Technical Datasheet*.](https://www.moog.com/content/dam/moog/literature/sdg/space/structures/moog-espa-users-guide-datasheet.pdf)  
+
+[5] [NASA, *Robotic Refueling Mission (RRM3) Factsheet*, 2023.](https://www.nasa.gov/wp-content/uploads/2023/10/rrm-factsheet.pdf)  
+
+[6] [ResearchGate, *Launch Cost Per Kilogram to Low Earth Orbit (LEO)*, 2024.](https://www.researchgate.net/figure/Launch-Cost-Per-Kilogram-to-Low-Earth-Orbit-LEO-US-Thousands_fig1_361415873)  
+
+[7] [MarketsandMarkets, *Satellite Payload Market — Forecast and Analysis*, 2024.](https://www.marketsandmarkets.com/Market-Reports/satellite-payload-market-223389741.html)  
+
+[8] [NASA, *NASA Worldview*, 2025.](https://earthdata.nasa.gov/worldview)  
+
+[9] [U.S. Geological Survey, *USGS EarthExplorer*, 2025.](https://earthexplorer.usgs.gov)  
+
+[10] [European Space Agency, *Copernicus Open Access Hub*, 2025.](https://www.copernicus.eu)  
