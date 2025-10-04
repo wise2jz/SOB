@@ -1,4 +1,4 @@
-# <p align="center">  
+<p align="center">  
   <img src="MAX_Q_LOGO.jpeg" width="180" alt="MAX-Q Logo"/>  
   <br>  
   <b>NSPC_2025 — Shared Orbital Bus (SOB)</b>  
@@ -13,7 +13,7 @@
 </p>  
 
 <p align="center">  
-  <a href="https://demo-presentation-link.com" target="_blank">  
+  <a href="https://docs.google.com/presentation/d/1p-fMK4VBTMm4lOg_GSlN27-fKinNFTwV-FHfXyknuIQ/edit?usp=drivesdk" target="_blank">  
     <img src="https://img.shields.io/badge/Open_Demo_Presentation-blue?style=for-the-badge&logo=google-slides&logoColor=white" alt="Demo Presentation"/>  
   </a>  
 </p>  
