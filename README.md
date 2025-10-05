@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="MAX_Q_LOGO.jpeg" width="180" alt="MAX-Q Logo"/>  
+  <img src="res/MAX_Q_LOGO.jpeg" width="180" alt="MAX-Q Logo"/>  
   <br>  
   <b>NASA Space Apps 2025 — Shared Orbital Bus (SOB)</b>  
 </p>  
@@ -7,7 +7,7 @@
 ---
 
 <p align="center">  
-   <img src="yt_thumb.jpg" width="180" alt="YT THUMB"/><br>
+   <img src="res/YT_Thumbnail.jpg" width="180" alt="YT THUMB"/><br>
   <a href="https://youtu.be/E-f5KDeGSmM?si=8-Ax8K1Jm1pWCbjE" target="_blank">  
     <img src="https://img.shields.io/badge/Watch_Project_Video-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video"/>  
   </a>  
@@ -40,7 +40,7 @@ A modular ESPA-class spacecraft hosting multiple independent payloads and provid
 - Built-in sustainability via servicing and disposal workflows  
 
 <p align="center">  
-  <img src="LeoLabs_LEO.jpg" width="650" alt="Leolabs LEO Debris Visualization"/>  
+  <img src="res/LeoLabs_LEO_SIM.jpg" width="650" alt="Leolabs LEO Debris Visualization"/>  
 </p>  
 
 ---
@@ -52,7 +52,7 @@ A modular ESPA-class spacecraft hosting multiple independent payloads and provid
 - Result: higher launch cadence, higher operational cost, greater collision risk.  
 
 <p align="center">  
-  <img src="ESA_ENV.png" width="650" alt="ESA Debris Environment"/>  
+  <img src="res/ESA_Debris_EN.png" width="650" alt="ESA Debris Environment"/>  
 </p>  
 
 ---
@@ -71,10 +71,10 @@ A modular ESPA-class spacecraft hosting multiple independent payloads and provid
 - Docking compatible with robotic servicing (heritage from NASA RRM and MEV)  
 
 <p align="center">  
-  <img src="1U_R.jpeg" width="250" alt="RCONN_1"/> 
-  <img src="1U_INT_R.jpeg" width="250" alt="RCONN_2"/>  
+  <img src="res/3D_Job_Preview.jpeg" width="250" alt="RCONN_1"/> 
+  <img src="res/1U_INT_R.jpeg" width="250" height="277" alt="RCONN_2"/>  
   <br>
-  <img src="CONN_R.jpeg" width="250" alt=RCONN_3"/>
+  <img src="res/R_CONN_Render.jpeg" width="250" alt="RCONN_3"/>
 </p>
 
 
